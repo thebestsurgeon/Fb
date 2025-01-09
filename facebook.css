@@ -1,0 +1,54 @@
+p{
+    text-align:center;
+    color:white;
+   background-color:blue;
+  
+}
+div{
+    width:100%;
+}
+body{
+    background-color: white;
+    }
+#a{
+    width: 100px;
+    height: 100px;
+}
+.b{
+    background-color:white;
+    color:grey;
+    text-align:left;
+    border:0px;
+}
+a{
+    text-decoration:none;
+}
+#r{
+    background-color:green;
+    padding:10px;
+}
+#w{
+    color:black;
+    background-color:white;
+}
+#q{
+    padding:10px
+}
+#y{
+    color:white;
+}
+#f{
+    padding:10px;
+}
+#s{
+    border-top:1px solid black;
+    width:100%;
+}
+table{
+    width:100%;
+}
+#i{
+    text-align:left;
+    color:blue;
+    background-color:white;
+}
